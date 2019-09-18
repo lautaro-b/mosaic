@@ -1,0 +1,32 @@
+﻿lautaro
+33783538
+Lautaro Borrovinsky
+
+I discussed the exercise with: Ruth Taboada
+====================
+=  README for ex6  =
+====================
+
+==================
+=  Description:  = 
+==================
+
+A program that creates a photomosaic given an image
+and "tiles" (small images) by using functions,
+importing, sys, copy, loops and so on.
+
+
+=============================
+=  List of submitted files: =
+=============================
+
+ex6.py  
+README this file
+
+======================
+=  Special Comments  =
+======================
+
+I checked the website stackoverflow.com in order to solve
+doubts. 
+
